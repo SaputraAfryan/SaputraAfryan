@@ -4,3 +4,50 @@
 
 # About Me and Interest
 ---
+``` yaml
+name: Muhammad Afryan Saputra
+located_in: Cikarang, Indonesia 
+current_job: IBM Maximo Fullstack Developer
+education:
+  [
+    "Full Stack Data Science Bootcamp, SanberCode X ITB",
+    "Bachelor's Degree in Informatics Engineering, Telkom University"
+  ]
+company: PT. Cikarang Listrindo Tbk
+
+field_of_interest:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "Software Development",
+    "DevOps"
+  ]
+technical_experience:
+  [
+    "IBM Maximo Asset Management (MAM)",
+    "ERP Systems built on React.js and Lumen",
+    "CRM Systems built on Laravel",
+    "Translation Systems built on Docker and FastAPI",
+    "Attendance Management Systems built on Next.js and Laravel",
+    "Data Analysis and Visualization using Python (Pandas, Matplotlib, Seaborn)",
+    "Data Mining and Machine Learning using Python (Scikit-learn, TensorFlow, PyTorch)",
+    "Database Management using MySQL, PostgreSQL, DB2",
+    "Version Control using Git and GitHub"
+  ]
+
+currently_learning:
+  [
+    ".Net Core and C#",
+    "Kubernetes",
+    "Cloud Computing (AWS, Azure)",
+    "Kubernetes and Container Orchestration",
+    "Advanced DevOps Practices"
+  ]
+hobbies:
+  [
+    "Coding and Programming",
+    "Traveling",
+    "Sports (Badminton)"
+  ]
+```
