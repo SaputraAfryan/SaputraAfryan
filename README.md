@@ -3,7 +3,6 @@
 </p>
 
 # About Me and Interest
----
 ``` yaml
 name: Muhammad Afryan Saputra
 located_in: Cikarang, Indonesia 
@@ -39,7 +38,6 @@ technical_experience:
 currently_learning:
   [
     ".Net Core and C#",
-    "Kubernetes",
     "Cloud Computing (AWS, Azure)",
     "Kubernetes and Container Orchestration",
     "Advanced DevOps Practices"
@@ -47,7 +45,8 @@ currently_learning:
 hobbies:
   [
     "Coding and Programming",
-    "Traveling",
-    "Sports (Badminton)"
+    "Sports (Badminton)",
+    "Traveling"
   ]
 ```
+# Tools i've Used and Learned
